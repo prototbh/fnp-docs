@@ -35,5 +35,7 @@ To interact with the **fnp** API, you can use simple `GET` requests as shown bel
 To generate an exchange code using an access token, send a `GET` request to the following with URL:
 
 URL: https://fnp-ka4a.onrender.com/exchange-get
+
 Method: GET
+
 Auth Required: Yes (bearer token in headers)
