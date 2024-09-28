@@ -12,21 +12,7 @@ Tired of dealing with bloated, over-engineered APIs just to retrieve Fortnite da
 - **Easy to use**: Designed to be straightforward, so you don’t have to waste time with complex integrations.
 - **Built for simplicity**: No unnecessary features, just the essentials to keep things moving.
 
-## Installation
 
-1. Clone this repository:
-
-    ```bash
-    git clone https://github.com/yourusername/fnp.git
-    ```
-
-2. Install the necessary dependencies:
-
-    ```bash
-    npm install
-    ```
-
-## Usage
 
 To interact with the **fnp** API, you can use simple `GET` requests as shown below.
 
