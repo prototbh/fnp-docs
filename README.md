@@ -37,3 +37,6 @@ URL: https://fnp-ka4a.onrender.com/device-auth-get
 Method: GET
 
 Auth Required: Yes (bearer token in headers), (account id in headers)
+##
+
+
