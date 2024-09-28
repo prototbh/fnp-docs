@@ -33,7 +33,7 @@ Auth Required: Yes (bearer token in headers)
 
 ### Generating Device auth (mainly used for bots)
 
-To generate exchange code, send a `GET` request to the following URL:
+To generate device auth, send a `GET` request to the following URL:
 
 URL: https://fnp-ka4a.onrender.com/device-auth-get
 
