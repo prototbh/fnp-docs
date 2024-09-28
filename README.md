@@ -16,7 +16,7 @@ Tired of dealing with bloated, over-engineered APIs just to retrieve Fortnite da
 
 To interact with the **fnp** API, you can use simple `GET` requests as shown below.
 
-### Generating an Exchange Code
+## Generating an Exchange Code
 
 To generate an exchange code using an access token, send a `GET` request to the following URL:
 
