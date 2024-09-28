@@ -29,6 +29,7 @@ Method: GET
 Auth Required: Yes (bearer token in headers)
 
 ![Screenshot](https://raw.githubusercontent.com/prototbh/dksjhdskjhsdkjhdskds/refs/heads/main/image_2024-09-28_142725835.png)
+##
 
 ### Generating Device auth (mainly used for bots)
 
