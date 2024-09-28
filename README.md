@@ -25,7 +25,7 @@ URL: https://fnp-ka4a.onrender.com/exchange-get
 Method: GET
 
 Auth Required: Yes (bearer token in headers)
-
+##
 
 
 ### Generating Device auth (mainly used for bots)
