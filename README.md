@@ -41,7 +41,6 @@ Method: GET
 Auth Required: Yes (bearer token in headers), (account id in headers)
 
 ![Screenshot](https://raw.githubusercontent.com/prototbh/dksjhdskjhsdkjhdskds/refs/heads/main/Screenshot%202024-09-28%20141905.png)
-
 ##
 
 
