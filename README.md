@@ -33,7 +33,7 @@ Auth Required: Yes (bearer token in headers)
 
 ### Generating Device auth (mainly used for bots)
 
-To generate Device auth, send a `GET` request to the following URL:
+To generate exchange code, send a `GET` request to the following URL:
 
 URL: https://fnp-ka4a.onrender.com/device-auth-get
 
@@ -46,7 +46,7 @@ Auth Required: Yes (bearer token in headers), (account id in headers)
 
 ### Get user info from display name
 
-To generate Device auth, send a `GET` request to the following URL:
+To get info, send a `GET` request to the following URL:
 
 URL: https://fnp-ka4a.onrender.com/user-lookup
 
@@ -59,7 +59,7 @@ Auth Required: Yes (bearer token in headers), (display name in headers)
 
 ### Change skin in lobby
 
-To generate Device auth, send a `GET` request to the following URL:
+To change skin, send a `GET` request to the following URL:
 
 URL: https://fnp-ka4a.onrender.com/user-lookup
 
