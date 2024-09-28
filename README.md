@@ -18,10 +18,22 @@ To interact with the **fnp** API, you can use simple `GET` requests as shown bel
 
 ### Generating an Exchange Code
 
-To generate an exchange code using an access token, send a `GET` request to the following with URL:
+To generate an exchange code using an access token, send a `GET` request to the following URL:
 
 URL: https://fnp-ka4a.onrender.com/exchange-get
 
 Method: GET
 
 Auth Required: Yes (bearer token in headers)
+
+
+
+### Generating Device auth (mainly used for bots)
+
+To generate Device auth, send a `GET` request to the following URL:
+
+URL: https://fnp-ka4a.onrender.com/device-auth-get
+
+Method: GET
+
+Auth Required: Yes (bearer token in headers), (account id in headers)
