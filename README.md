@@ -61,7 +61,7 @@ Auth Required: Yes (bearer token in headers), (display name in headers)
 
 To change skin, send a `GET` request to the following URL:
 
-URL: https://fnp-ka4a.onrender.com/user-lookup
+URL: https://fnp-ka4a.onrender.com/ghosty-skin
 
 Method: GET
 
