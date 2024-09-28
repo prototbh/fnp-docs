@@ -57,3 +57,17 @@ Auth Required: Yes (bearer token in headers), (display name in headers)
 ![Screenshot](https://raw.githubusercontent.com/prototbh/dksjhdskjhsdkjhdskds/refs/heads/main/image_2024-09-28_144534957.png)
 ##
 
+### Change skin in lobby
+
+To generate Device auth, send a `GET` request to the following URL:
+
+URL: https://fnp-ka4a.onrender.com/user-lookup
+
+Method: GET
+
+Auth Required: Yes (bearer token in headers), (account id in headers), (skin name in request)
+
+![Screenshot](https://raw.githubusercontent.com/prototbh/dksjhdskjhsdkjhdskds/refs/heads/main/image_2024-09-28_155819456.png)
+##
+
+
