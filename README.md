@@ -61,7 +61,7 @@ Auth Required: Yes (bearer token in headers), (display name in headers)
 
 To get token, send a `GET` request to the following URL:
 
-URL: https://fnp-ka4a.onrender.com/device-to-tokwn
+URL: https://fnp-ka4a.onrender.com/device-to-token
 
 Method: GET
 
