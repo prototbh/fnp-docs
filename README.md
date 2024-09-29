@@ -56,3 +56,17 @@ Auth Required: Yes (bearer token in headers), (display name in headers)
 
 ![Screenshot](https://raw.githubusercontent.com/prototbh/dksjhdskjhsdkjhdskds/refs/heads/main/image_2024-09-28_144534957.png)
 ##
+
+### Get token from device auth
+
+To get token, send a `GET` request to the following URL:
+
+URL: https://fnp-ka4a.onrender.com/device-to-tokwn
+
+Method: GET
+
+Auth Required: Yes (secret in headers), (device id in headers), (account id in headers)
+
+![Screenshot](https://raw.githubusercontent.com/prototbh/dksjhdskjhsdkjhdskds/refs/heads/main/image_2024-09-28_210745651.png)
+##
+
